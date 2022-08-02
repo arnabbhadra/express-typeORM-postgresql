@@ -1,0 +1,24 @@
+# Coverage directory used by tools like istanbul
+coverage
+*.lcov
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+.vscode
+
+# Remove logs
+./logs
+*.log
